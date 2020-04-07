@@ -1,0 +1,13 @@
+n1 = int(input('Digite um número: '))
+#TABUADA DE MULTIPLICAÇÃO
+print('A tabuada deste valor é: ')
+print('Valor multiplicado por 1 resulta em: ', n1 * 1)
+print('Valor multiplicado por 2 resulta em: ', n1 * 2)
+print('Valor multiplicado por 3 resulta em: ', n1 * 3)
+print('Valor multiplicado por 4 resulta em: ', n1 * 4)
+print('Valor multiplicado por 5 resulta em: ', n1 * 5)
+print('Valor multiplicado por 6 resulta em: ', n1 * 6)
+print('Valor multiplicado por 7 resulta em: ', n1 * 7)
+print('Valor multiplicado por 8 resulta em: ', n1 * 8)
+print('Valor multiplicado por 9 resulta em: ', n1 * 9)
+print('Valor multiplicado por 10 resulta em: ', n1 * 10)
