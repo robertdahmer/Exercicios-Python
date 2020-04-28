@@ -1,6 +1,6 @@
 from time import sleep
 from random import randint
-n = int(input('Quantos jogos você quer que eu sorteie? '))    # pergunta quantos jogos
+n = int(input('\033[34mQuantos jogos você quer que eu sorteie?\033[m '))    # pergunta quantos jogos
 print()
 
 jogos = []  # cria uma lista
